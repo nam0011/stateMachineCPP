@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Nathan Moore/OneDrive - uah.edu/Nathan/SP21/CS 330 - AI for Games/Projects/stateMachineCPP/stateMachineCPP/main.cpp
+iostream
+-
+fstream
+-
+

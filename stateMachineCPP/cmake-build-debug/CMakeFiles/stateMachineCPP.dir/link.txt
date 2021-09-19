@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/stateMachineCPP.dir/main.cpp.o  -o stateMachineCPP.exe -Wl,--out-implib,libstateMachineCPP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
